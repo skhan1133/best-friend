@@ -205,7 +205,7 @@ body image*/
         font-size: 20px;
     }
     body { 
-        background: url(./image/bg.jpeg) no-repeat center center fixed; 
+        background: url(./bg.jpeg) no-repeat center center fixed; 
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
